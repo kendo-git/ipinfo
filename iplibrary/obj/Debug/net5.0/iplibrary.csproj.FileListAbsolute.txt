@@ -1,0 +1,12 @@
+/Users/labisevagelatos/Desktop/iptesting/iplibrary/bin/Debug/net5.0/iplibrary.deps.json
+/Users/labisevagelatos/Desktop/iptesting/iplibrary/bin/Debug/net5.0/iplibrary.dll
+/Users/labisevagelatos/Desktop/iptesting/iplibrary/bin/Debug/net5.0/ref/iplibrary.dll
+/Users/labisevagelatos/Desktop/iptesting/iplibrary/bin/Debug/net5.0/iplibrary.pdb
+/Users/labisevagelatos/Desktop/iptesting/iplibrary/obj/Debug/net5.0/iplibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/labisevagelatos/Desktop/iptesting/iplibrary/obj/Debug/net5.0/iplibrary.AssemblyInfoInputs.cache
+/Users/labisevagelatos/Desktop/iptesting/iplibrary/obj/Debug/net5.0/iplibrary.AssemblyInfo.cs
+/Users/labisevagelatos/Desktop/iptesting/iplibrary/obj/Debug/net5.0/iplibrary.csproj.CoreCompileInputs.cache
+/Users/labisevagelatos/Desktop/iptesting/iplibrary/obj/Debug/net5.0/iplibrary.dll
+/Users/labisevagelatos/Desktop/iptesting/iplibrary/obj/Debug/net5.0/ref/iplibrary.dll
+/Users/labisevagelatos/Desktop/iptesting/iplibrary/obj/Debug/net5.0/iplibrary.pdb
+/Users/labisevagelatos/Desktop/iptesting/iplibrary/obj/Debug/net5.0/iplibrary.csproj.AssemblyReference.cache
