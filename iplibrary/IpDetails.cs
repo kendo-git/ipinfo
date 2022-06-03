@@ -19,5 +19,9 @@ namespace iplibrary
             Lat = la;
             Long = lo;
         }
+        public string Printable()
+        {
+            return Ip + ": " + Country + ", " + City + " (" +Lat+","+Long+")";
+        }
     }
 }

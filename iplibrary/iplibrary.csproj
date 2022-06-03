@@ -6,8 +6,16 @@
 
   <ItemGroup>
     <None Remove="Newtonsoft.Json" />
+    <None Remove="System.Data.SqlClient" />
+    <None Remove="AdvancedStringBuilder" />
+    <None Remove="Microsoft.Extensions.Caching.Memory" />
+    <None Remove="Microsoft.Extensions.Hosting" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+    <PackageReference Include="AdvancedStringBuilder" Version="0.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="6.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
   </ItemGroup>
 </Project>
