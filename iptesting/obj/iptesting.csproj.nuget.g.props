@@ -14,10 +14,10 @@
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)microsoft.net.sdk.functions\1.0.14\build\netstandard1.0\Microsoft.NET.Sdk.Functions.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.sdk.functions\1.0.14\build\netstandard1.0\Microsoft.NET.Sdk.Functions.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.net.sdk.functions\3.0.11\build\Microsoft.NET.Sdk.Functions.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.sdk.functions\3.0.11\build\Microsoft.NET.Sdk.Functions.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgMicrosoft_Azure_WebJobs_Script_ExtensionsMetadataGenerator Condition=" '$(PkgMicrosoft_Azure_WebJobs_Script_ExtensionsMetadataGenerator)' == '' ">C:\Users\chevangelatos\.nuget\packages\microsoft.azure.webjobs.script.extensionsmetadatagenerator\1.0.0-beta2</PkgMicrosoft_Azure_WebJobs_Script_ExtensionsMetadataGenerator>
-    <PkgMicrosoft_NET_Sdk_Functions Condition=" '$(PkgMicrosoft_NET_Sdk_Functions)' == '' ">C:\Users\chevangelatos\.nuget\packages\microsoft.net.sdk.functions\1.0.14</PkgMicrosoft_NET_Sdk_Functions>
+    <PkgMicrosoft_Azure_WebJobs_Script_ExtensionsMetadataGenerator Condition=" '$(PkgMicrosoft_Azure_WebJobs_Script_ExtensionsMetadataGenerator)' == '' ">C:\Users\chevangelatos\.nuget\packages\microsoft.azure.webjobs.script.extensionsmetadatagenerator\1.2.0</PkgMicrosoft_Azure_WebJobs_Script_ExtensionsMetadataGenerator>
+    <PkgMicrosoft_NET_Sdk_Functions Condition=" '$(PkgMicrosoft_NET_Sdk_Functions)' == '' ">C:\Users\chevangelatos\.nuget\packages\microsoft.net.sdk.functions\3.0.11</PkgMicrosoft_NET_Sdk_Functions>
   </PropertyGroup>
 </Project>

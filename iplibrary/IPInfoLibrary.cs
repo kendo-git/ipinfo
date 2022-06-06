@@ -40,10 +40,10 @@ namespace IPInfoLibraries
             }
 
             var ipLookupInfo = responseJson.ToObject<IPResponse>();
-            if (ipLookupInfo==null||ipLookupInfo.country_name == null )
+            if (ipLookupInfo == null || ipLookupInfo.country_name == null)
                 return new Result<IpDetails>(false, default(IpDetails), new Error("404", "not found"));
 
-            return new Result<IpDetails>(true, new IpDetails(ipLookupInfo.Ip,ipLookupInfo.city, ipLookupInfo.country_code, ipLookupInfo.continent_code, ipLookupInfo.latitude??0, ipLookupInfo.longitude??0), null);
+            return new Result<IpDetails>(true, new IpDetails(ipLookupInfo.Ip, ipLookupInfo.city, ipLookupInfo.country_code, ipLookupInfo.continent_code, ipLookupInfo.latitude ?? 0, ipLookupInfo.longitude ?? 0), null);
         }
     }
 }

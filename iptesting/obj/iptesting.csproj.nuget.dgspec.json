@@ -54,7 +54,7 @@
             },
             "Microsoft.NET.Sdk.Functions": {
               "target": "Package",
-              "version": "[1.0.14, )"
+              "version": "[3.0.11, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",

@@ -1,0 +1,12 @@
+C:\Users\chevangelatos\Source\Repos\ipinfo\iplibrary\bin\Debug\net6.0\iplibrary.deps.json
+C:\Users\chevangelatos\Source\Repos\ipinfo\iplibrary\bin\Debug\net6.0\iplibrary.dll
+C:\Users\chevangelatos\Source\Repos\ipinfo\iplibrary\bin\Debug\net6.0\iplibrary.pdb
+C:\Users\chevangelatos\Source\Repos\ipinfo\iplibrary\obj\Debug\net6.0\iplibrary.csproj.AssemblyReference.cache
+C:\Users\chevangelatos\Source\Repos\ipinfo\iplibrary\obj\Debug\net6.0\iplibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chevangelatos\Source\Repos\ipinfo\iplibrary\obj\Debug\net6.0\iplibrary.AssemblyInfoInputs.cache
+C:\Users\chevangelatos\Source\Repos\ipinfo\iplibrary\obj\Debug\net6.0\iplibrary.AssemblyInfo.cs
+C:\Users\chevangelatos\Source\Repos\ipinfo\iplibrary\obj\Debug\net6.0\iplibrary.csproj.CoreCompileInputs.cache
+C:\Users\chevangelatos\Source\Repos\ipinfo\iplibrary\obj\Debug\net6.0\iplibrary.dll
+C:\Users\chevangelatos\Source\Repos\ipinfo\iplibrary\obj\Debug\net6.0\refint\iplibrary.dll
+C:\Users\chevangelatos\Source\Repos\ipinfo\iplibrary\obj\Debug\net6.0\iplibrary.pdb
+C:\Users\chevangelatos\Source\Repos\ipinfo\iplibrary\obj\Debug\net6.0\ref\iplibrary.dll

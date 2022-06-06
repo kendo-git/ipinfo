@@ -21,7 +21,7 @@ namespace iplibrary
         }
         public string Printable()
         {
-            return Ip + ": " + Country + ", " + City + " (" +Lat+","+Long+")";
+            return Ip + ": " + Country + ", " + City + " (" + Lat + "," + Long + ")";
         }
     }
 }

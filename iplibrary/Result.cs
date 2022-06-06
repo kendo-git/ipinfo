@@ -9,7 +9,7 @@ namespace iplibrary
 
         public Error Error { get; private set; }
 
-        public Result(bool s,TResultType b,Error e)
+        public Result(bool s, TResultType b, Error e)
         {
             Success = s;
             Body = b;
