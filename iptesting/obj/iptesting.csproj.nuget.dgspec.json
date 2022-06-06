@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/labisevagelatos/Desktop/iptesting/iptesting/iptesting.csproj": {}
+    "C:\\Users\\chevangelatos\\Source\\Repos\\ipinfo\\iptesting\\iptesting.csproj": {}
   },
   "projects": {
-    "/Users/labisevagelatos/Desktop/iptesting/iptesting/iptesting.csproj": {
+    "C:\\Users\\chevangelatos\\Source\\Repos\\ipinfo\\iptesting\\iptesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/labisevagelatos/Desktop/iptesting/iptesting/iptesting.csproj",
+        "projectUniqueName": "C:\\Users\\chevangelatos\\Source\\Repos\\ipinfo\\iptesting\\iptesting.csproj",
         "projectName": "iptesting",
-        "projectPath": "/Users/labisevagelatos/Desktop/iptesting/iptesting/iptesting.csproj",
-        "packagesPath": "/Users/labisevagelatos/.nuget/packages/",
-        "outputPath": "/Users/labisevagelatos/Desktop/iptesting/iptesting/obj/",
+        "projectPath": "C:\\Users\\chevangelatos\\Source\\Repos\\ipinfo\\iptesting\\iptesting.csproj",
+        "packagesPath": "C:\\Users\\chevangelatos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chevangelatos\\Source\\Repos\\ipinfo\\iptesting\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/labisevagelatos/.config/NuGet/NuGet.Config"
+          "C:\\Users\\chevangelatos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +44,18 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NET.Sdk.Functions": {
+              "target": "Package",
+              "version": "[1.0.14, )"
+            },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.5.1, )"
@@ -61,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.105/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
